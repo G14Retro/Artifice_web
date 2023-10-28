@@ -4,7 +4,64 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container-fluid text-center bg-artifice">
+    <section class="mb-3">
+        <div class="text-center mb-5">
+            <h1>Bienvenido a Artifice</h1>
+        </div>
+        <div class="container ps-5">
+            <div class="row mb-3">
+                <div class="col-12 col-lg-2"></div>
+                <div class="col-12 col-lg-4">
+                    <div class="card card-hover" style="width: 100%;">
+                        <img src="img/home_servicios.jpg" class="card-img-top" alt="servicios" width="366" height="244">
+                        <div class="card-body">
+                            <h5 class="card-title">Servicios</h5>
+                            <p class="card-text">
+                                Nuestros servicios ayudan a mejorar su calidad de vida.
+                            </p>
+                            <a href="#" class="btn btn-primary">Ver más</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="card card-hover" style="width: 100%;">
+                        <img src="img/home_blog.jpg" class="card-img-top" alt="blog" width="366" height="244">
+                        <div class="card-body">
+                            <h5 class="card-title">Blog</h5>
+                            <p class="card-text">
+                                Queremos compartir y crear nuevas nuevas experiencias.
+                            </p>
+                            <a href="#" class="btn btn-primary">Ver más</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-lg-2"></div>
+                <div class="col-12 col-lg-4">
+                    <div class="card card-hover" style="width: 100%;">
+                        <img src="img/home_quienes.jpg" class="card-img-top" alt="quienes_somos" width="366" height="244">
+                        <div class="card-body">
+                            <h5 class="card-title">Quiénes somos</h5>
+                            <p class="card-text">
+                                Conoce sobre nuestra historia y hacia donde vamos.
+                            </p>
+                            <a href="#" class="btn btn-primary">Ver más</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="card card-hover" style="width: 100%;">
+                        <img src="img/home_contactanos.jpg" class="card-img-top" alt="contactanos" width="366" height="244">
+                        <div class="card-body">
+                            <h5 class="card-title">Contáctanos</h5>
+                            <p class="card-text">Deja tus datos y nos pondremos en contacto contigo.</p>
+                            <a asp-area="" asp-page="/contactanos" class="btn btn-primary">Ver más</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </div>
