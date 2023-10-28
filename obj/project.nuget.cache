@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SDyJ5k2/J1ImK7lpF9OVLn93iL0cOPj4m3krtZy9z27qzdZMHgWfbwFsQEfgJ5z4EcrjZ0FWdcgxws6Sm1WT/w==",
+  "dgSpecHash": "/ZpvxmpnsyVlB91jYE1WrBziw/LsPFX2MprPHC2AiNacU6szjNF3XRvffxyliumDP0xEuWPS3Rh3vxEbuhwzZg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\Artifice_web.csproj",
+  "projectFilePath": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\Artifice_web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\g14_0\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],

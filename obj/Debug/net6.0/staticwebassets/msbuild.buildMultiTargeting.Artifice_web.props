@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Artifice_web.props" />
+</Project>
