@@ -28,3 +28,33 @@ C:\Users\g14_0\OneDrive\Documentos\Visual Studio 2022\repos\Artifice_web\obj\Deb
 C:\Users\g14_0\OneDrive\Documentos\Visual Studio 2022\repos\Artifice_web\obj\Debug\net6.0\Artifice_web.pdb
 C:\Users\g14_0\OneDrive\Documentos\Visual Studio 2022\repos\Artifice_web\obj\Debug\net6.0\Artifice_web.genruntimeconfig.cache
 C:\Users\g14_0\OneDrive\Documentos\Visual Studio 2022\repos\Artifice_web\obj\Debug\net6.0\ref\Artifice_web.dll
+D:\Proyectos\Artifice_web\bin\Debug\net6.0\appsettings.Development.json
+D:\Proyectos\Artifice_web\bin\Debug\net6.0\appsettings.json
+D:\Proyectos\Artifice_web\bin\Debug\net6.0\Artifice_web.staticwebassets.runtime.json
+D:\Proyectos\Artifice_web\bin\Debug\net6.0\Artifice_web.exe
+D:\Proyectos\Artifice_web\bin\Debug\net6.0\Artifice_web.deps.json
+D:\Proyectos\Artifice_web\bin\Debug\net6.0\Artifice_web.runtimeconfig.json
+D:\Proyectos\Artifice_web\bin\Debug\net6.0\Artifice_web.dll
+D:\Proyectos\Artifice_web\bin\Debug\net6.0\Artifice_web.pdb
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.AssemblyInfoInputs.cache
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.AssemblyInfo.cs
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.csproj.CoreCompileInputs.cache
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.RazorAssemblyInfo.cache
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.RazorAssemblyInfo.cs
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\staticwebassets\msbuild.Artifice_web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\staticwebassets\msbuild.build.Artifice_web.props
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Artifice_web.props
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Artifice_web.props
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\scopedcss\bundle\Artifice_web.styles.css
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\scopedcss\projectbundle\Artifice_web.bundle.scp.css
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.dll
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\refint\Artifice_web.dll
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.pdb
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\Artifice_web.genruntimeconfig.cache
+D:\Proyectos\Artifice_web\obj\Debug\net6.0\ref\Artifice_web.dll
