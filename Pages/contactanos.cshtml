@@ -1,7 +1,60 @@
 ﻿@page
 @model Artifice_web.Pages.contactanosModel
 @{
-    ViewData["Title"] = "Contactanos";
+    ViewData["Title"] = "Contáctanos";
 }
 
+
+<body>
 <h1>Contacto</h1>
+
+<form>
+    <div class="row">
+        <div class="mb-3 col-6">
+            <label for="InputName" class="form-label">Nombre</label>
+            <input type="text" class="form-control" id="InputName" aria-describedby="emailHelp">
+         </div>
+
+        <div class="mb-3 col-6">
+            <label for="InputApellido" class="form-label">Apellido</label>
+            <input type="text" class="form-control" id="InputApellido" aria-describedby="emailHelp">  
+        </div>
+    </div>
+
+     <div class="row">
+        <div class="mb-3 col-6">
+            <label for="InputTelefono" class="form-label">Teléfono</label>
+            <input type="text" class="form-control" id="InputTelefono">
+        </div>
+        <div class="mb-3 col-6">
+            <label for="InputCelular" class="form-label">Teléfono Celular</label>
+            <input type="text" class="form-control" id="InputCelular">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="mb-3 col-6">
+            <label for="InputCorreo" class="form-label">Correo Electrónico</label>
+            <input type="email" class="form-control" id="InputCorreo">
+        </div>
+
+        <div class="col-6">
+                <label class="form-label">Tipo de servicio</label>
+        <select class="form-select" aria-label="Selecciona una opción">
+            
+            <option value="1">Asesoría</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+        </select>
+        </div>
+
+        </div>
+
+        
+
+    <div class="col-12" mt-4>  
+    <button type="submit" class="btn btn-primary">Enviar</button>
+    </div>
+</form>
+
+</body>

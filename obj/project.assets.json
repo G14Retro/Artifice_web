@@ -100,19 +100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\g14_0\\.nuget\\packages\\": {}
+    "C:\\Users\\janio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\Artifice_web.csproj",
+      "projectUniqueName": "C:\\Users\\janio\\Artifice_web\\Artifice_web.csproj",
       "projectName": "Artifice_web",
-      "projectPath": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\Artifice_web.csproj",
-      "packagesPath": "C:\\Users\\g14_0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\obj\\",
+      "projectPath": "C:\\Users\\janio\\Artifice_web\\Artifice_web.csproj",
+      "packagesPath": "C:\\Users\\janio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\janio\\Artifice_web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\g14_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\janio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -162,7 +162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

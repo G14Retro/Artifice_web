@@ -28,3 +28,33 @@ C:\Users\g14_0\OneDrive\Documentos\Visual Studio 2022\repos\Artifice_web\obj\Deb
 C:\Users\g14_0\OneDrive\Documentos\Visual Studio 2022\repos\Artifice_web\obj\Debug\net6.0\Artifice_web.pdb
 C:\Users\g14_0\OneDrive\Documentos\Visual Studio 2022\repos\Artifice_web\obj\Debug\net6.0\Artifice_web.genruntimeconfig.cache
 C:\Users\g14_0\OneDrive\Documentos\Visual Studio 2022\repos\Artifice_web\obj\Debug\net6.0\ref\Artifice_web.dll
+C:\Users\janio\Artifice_web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\janio\Artifice_web\bin\Debug\net6.0\appsettings.json
+C:\Users\janio\Artifice_web\bin\Debug\net6.0\Artifice_web.staticwebassets.runtime.json
+C:\Users\janio\Artifice_web\bin\Debug\net6.0\Artifice_web.exe
+C:\Users\janio\Artifice_web\bin\Debug\net6.0\Artifice_web.deps.json
+C:\Users\janio\Artifice_web\bin\Debug\net6.0\Artifice_web.runtimeconfig.json
+C:\Users\janio\Artifice_web\bin\Debug\net6.0\Artifice_web.dll
+C:\Users\janio\Artifice_web\bin\Debug\net6.0\Artifice_web.pdb
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.AssemblyInfoInputs.cache
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.AssemblyInfo.cs
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.csproj.CoreCompileInputs.cache
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.RazorAssemblyInfo.cache
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.RazorAssemblyInfo.cs
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\staticwebassets\msbuild.Artifice_web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\staticwebassets\msbuild.build.Artifice_web.props
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Artifice_web.props
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Artifice_web.props
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\scopedcss\bundle\Artifice_web.styles.css
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\scopedcss\projectbundle\Artifice_web.bundle.scp.css
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.dll
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\refint\Artifice_web.dll
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.pdb
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\Artifice_web.genruntimeconfig.cache
+C:\Users\janio\Artifice_web\obj\Debug\net6.0\ref\Artifice_web.dll
