@@ -100,19 +100,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\g14_0\\.nuget\\packages\\": {}
+    "C:\\Users\\estiv\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Artifice_web\\Artifice_web.csproj",
+      "projectUniqueName": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\Artifice_web.csproj",
       "projectName": "Artifice_web",
-      "projectPath": "D:\\Proyectos\\Artifice_web\\Artifice_web.csproj",
-      "packagesPath": "C:\\Users\\g14_0\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Artifice_web\\obj\\",
+      "projectPath": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\Artifice_web.csproj",
+      "packagesPath": "C:\\Users\\estiv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\g14_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\estiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -162,7 +167,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
