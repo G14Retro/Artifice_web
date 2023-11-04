@@ -5,12 +5,40 @@
       "PackagePath": "staticwebassets\\Artifice_web.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\css\\estilo.css",
+      "PackagePath": "staticwebassets\\css\\estilo.css"
+    },
+    {
       "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\1somos.jpg",
+      "PackagePath": "staticwebassets\\img\\1somos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\2somos.jpg",
+      "PackagePath": "staticwebassets\\img\\2somos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\3somos.jpg",
+      "PackagePath": "staticwebassets\\img\\3somos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\LogoEmpresa1.png",
+      "PackagePath": "staticwebassets\\img\\LogoEmpresa1.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\facebook (1).png",
+      "PackagePath": "staticwebassets\\img\\facebook (1).png"
     },
     {
       "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\home_blog.jpg",
@@ -31,6 +59,30 @@
     {
       "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\home_servicios.png",
       "PackagePath": "staticwebassets\\img\\home_servicios.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\tik-tok.png",
+      "PackagePath": "staticwebassets\\img\\tik-tok.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\whatsapp.png",
+      "PackagePath": "staticwebassets\\img\\whatsapp.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
       "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\js\\site.js",

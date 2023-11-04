@@ -5,46 +5,89 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Artifice_web</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/estilo.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Artifice_web.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-md fixed-top">
+
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">Artifice_web</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                <a asp-area="" asp-page="/Index" class="navbar-brand"><img class="imglogo" src="~/img/logoempresa1.png" title="Ir al menu principal" /></a>
+
+                <button type="button" class="navbar-toggler"
+                        data-toggle="collapse"
+                        data-target="#menu-principal"
+                        aria-controls="menu-principal"
+                        aria-expande="false"
+                        aria-label="Despliegue menú de navegación">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
+
+                <div class="collapse navbar-collapse text-right" id="menu-principal">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item"><a asp-area="" asp-page="/Index" class="nav-link active itemMenu"> Pagina de inicio </a></li>
+                        <li class="nav-item"><a asp-area="" asp-page="/Servicios" class="nav-link active itemMenu"> Servicios </a></li>
+                        <li class="nav-item"><a asp-area="" asp-page="#" class="nav-link active itemMenu"> Blog </a></li>
+                        <li class="nav-item"><a asp-area="" asp-page="/QuienesSomos" class="nav-link active itemMenu"> Quienes Somos </a></li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+    <div class="container-fluid pb-5">
+        <main role="main" class="pb-5">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+
+
+
+    <footer class="pie-de-pagina fixed-bottom">
         <div class="container">
-            &copy; 2023 - Artifice_web - <a asp-area="" asp-page="/Privacy">Privacy</a>
+           <div class="row">
+               <div class="col-md-6">
+                    <label class="textoFooter"><strong>Direccion Fisica:</strong> Calle 4F #39B  - 20 / Bogotá D.C. COLOMBIA</label>
+                    <label class="textoFooter"><strong>Correo  Electronico:</strong> artificieinteriordesign@gmail.com</label>
+               </div>  
+               <div class="col-md-6 text-center text-md-right">
+                    <a href="#"><img class="iconosFooter mr-4" src="img/facebook (1).png" title="Ir al perfil de facebook" /></a>
+                    <a href="#"><img class="iconosFooter mr-4" src="img/tik-tok.png" title="Ir al perfil de TikTok" /></a>
+                    <a href="#"><img class="iconosFooter mr-4" src="img/instagram.png" title="Ir al perfil de instagram" /></a>
+                    <a href="#"><img class="iconosFooter" src="/img/whatsapp.png" title="Ir al contacto de whatsapp" /></a>
+            </div>
+           </div>
         </div>
     </footer>
+
+    <!-- REF. ARCHIVOS BOOSTDTRAP JAVASCRIPT -->
+    <script src="~/js/jquery-3.3.1.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+        <script type="text/javascript">
+        $(window).resize( function(){
+            var width = $(window).width();
+            if(width < 975){
+                $(".imgMision").before($(".txtMision"));
+            } else{
+                $(".txtMision").before($(".imgMision"));
+            }
+        });
+        $(document).ready(function() {
+                var width = $(window).width();
+                if(width < 975){
+                    $(".imgMision").before($(".txtMision"));
+                } else{
+                    $(".txtMision").before($(".imgMision"));
+                }
+        });
+    </script>
 
     @await RenderSectionAsync("Scripts", required: false)
 </body>
