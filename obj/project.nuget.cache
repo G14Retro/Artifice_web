@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VlNbfV9N+/N8aXNWwuYDw6Cf1tmgthu+Dxs6oU7ZeqTrSSQrP9cexaQ/J5EYZCIldFgASz93HVt+6CIs9bc3PA==",
+  "dgSpecHash": "be9+qPrePl1a9aTOWisekvdyvPFRkH6TBID+v4oUWsM2ZQI9YeLJJxw/yZEezBuIYpXIY0iccIdsj1AUS52ZFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\Artifice_web.csproj",
+  "projectFilePath": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\Artifice_web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\estiv\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+    "C:\\Users\\g14_0\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],
   "logs": []
 }
