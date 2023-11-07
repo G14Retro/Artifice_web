@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janio\\Artifice_web\\Artifice_web.csproj": {}
+    "C:\\Users\\janio\\source\\repos\\Artifice_web\\Artifice_web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janio\\Artifice_web\\Artifice_web.csproj": {
+    "C:\\Users\\janio\\source\\repos\\Artifice_web\\Artifice_web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janio\\Artifice_web\\Artifice_web.csproj",
+        "projectUniqueName": "C:\\Users\\janio\\source\\repos\\Artifice_web\\Artifice_web.csproj",
         "projectName": "Artifice_web",
-        "projectPath": "C:\\Users\\janio\\Artifice_web\\Artifice_web.csproj",
+        "projectPath": "C:\\Users\\janio\\source\\repos\\Artifice_web\\Artifice_web.csproj",
         "packagesPath": "C:\\Users\\janio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janio\\Artifice_web\\obj\\",
+        "outputPath": "C:\\Users\\janio\\source\\repos\\Artifice_web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janio\\AppData\\Roaming\\NuGet\\NuGet.Config",

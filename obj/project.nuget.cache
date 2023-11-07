@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KDum7oUm36NkQc2u9vv6d562UpZcTtcQaiFeEzuhCeXaB5wGmGnu6q2B9ZuVvdh5FRBBld0lEjF1wjiCIzsMfA==",
+  "dgSpecHash": "4tTfol4BnHxVLbUbP1bL2oQIS2HJ/CtzWdjCYn/g4fscU7VqmqgGN+yGaowZz2QBev7YixS6qNLj3uciwd3+Gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\janio\\Artifice_web\\Artifice_web.csproj",
+  "projectFilePath": "C:\\Users\\janio\\source\\repos\\Artifice_web\\Artifice_web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],

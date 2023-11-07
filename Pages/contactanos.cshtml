@@ -6,55 +6,73 @@
 
 
 <body>
-<h1>Contacto</h1>
+<h1>Contáctanos</h1>
 
-<form>
+<div class="container">
     <div class="row">
-        <div class="mb-3 col-6">
-            <label for="InputName" class="form-label">Nombre</label>
-            <input type="text" class="form-control" id="InputName" aria-describedby="emailHelp">
-         </div>
-
-        <div class="mb-3 col-6">
-            <label for="InputApellido" class="form-label">Apellido</label>
-            <input type="text" class="form-control" id="InputApellido" aria-describedby="emailHelp">  
-        </div>
-    </div>
-
-     <div class="row">
-        <div class="mb-3 col-6">
-            <label for="InputTelefono" class="form-label">Teléfono</label>
-            <input type="text" class="form-control" id="InputTelefono">
-        </div>
-        <div class="mb-3 col-6">
-            <label for="InputCelular" class="form-label">Teléfono Celular</label>
-            <input type="text" class="form-control" id="InputCelular">
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="mb-3 col-6">
-            <label for="InputCorreo" class="form-label">Correo Electrónico</label>
-            <input type="email" class="form-control" id="InputCorreo">
-        </div>
-
         <div class="col-6">
-                <label class="form-label">Tipo de servicio</label>
-        <select class="form-select" aria-label="Selecciona una opción">
-            
-            <option value="1">Asesoría</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
-        </select>
+            <img src="img/form_ladder.jpg" class="image-fluid" alt="servicios" width="366" height="244">
         </div>
 
-        </div>
+     
+        <div class="col-6">
+            <form>
+    
+            <div class="row col-12">
+                    <div class="mb-3 col-6">
+                        <label for="InputName" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" id="InputName" aria-describedby="emailHelp">
+                     </div>
 
+                    <div class="mb-3 col-6">
+                        <label for="InputApellido" class="form-label">Apellido</label>
+                        <input type="text" class="form-control" id="InputApellido" aria-describedby="emailHelp">  
+                    </div>
+             </div>
+
+                 <div class="row col-12">
+                    <div class="mb-3 col-6">
+                        <label for="InputTelefono" class="form-label">Teléfono</label>
+                        <input type="text" class="form-control" id="InputTelefono">
+                    </div>
+                    <div class="mb-3 col-6">
+                        <label for="InputCelular" class="form-label">Teléfono Celular</label>
+                        <input type="text" class="form-control" id="InputCelular">
+                    </div>
+                </div>
+
+                <div class="row col-12">
+                    <div class="mb-3 col-6">
+                        <label for="InputCorreo" class="form-label">Correo Electrónico</label>
+                        <input type="email" class="form-control" id="InputCorreo">
+                    </div>
+
+                    <div class="col-6">
+                            <label class="form-label">Tipo de servicio</label>
+                            <select class="form-select" aria-label="Selecciona una opción">
+                                <option value="1">Asesoría</option>
+                                <option value="2">Diseño</option>
+                                <option value="3">Remodelación</option>
+                            </select>
+                    </div>
+                </div>
+                
+                        <div class="form-floating mb-5" >
+                            <textarea class="form-control" placeholder="Deje sus comentarios" id="floatingTextarea"></textarea>
+                            <label for="floatingTextarea">Comentarios</label>
+                        </div>
         
-
-    <div class="col-12" mt-4>  
-    <button type="submit" class="btn btn-primary">Enviar</button>
+                <div class="botton-group" role="group" >
+                    <div class="col mt-3" >  
+                    <button type="submit" class="btn btn-success">Enviar</button>
+                    <button type="reset" class="btn btn-info">Reset</button>
+                    <a href="#" id="cancel" name="cancel" class="btn btn-danger">Cancelar</a>
+                    </div>
+ 
+                </div>
+            </form>
     </div>
-</form>
-
+</div>
+ </div> <!--Container General-->
+ 
 </body>
