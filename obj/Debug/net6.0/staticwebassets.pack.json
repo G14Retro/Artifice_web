@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Artifice_web.bundle.scp.css"
     },
     {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\css\\estilo.css",
+      "PackagePath": "staticwebassets\\css\\estilo.css"
+    },
+    {
       "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -25,6 +33,26 @@
       "PackagePath": "staticwebassets\\img\\3somos.jpg"
     },
     {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\LogoEmpresa1.png",
+      "PackagePath": "staticwebassets\\img\\LogoEmpresa1.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\calidad.png",
+      "PackagePath": "staticwebassets\\img\\calidad.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\compromiso.png",
+      "PackagePath": "staticwebassets\\img\\compromiso.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\creatividad.png",
+      "PackagePath": "staticwebassets\\img\\creatividad.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\facebook (1).png",
+      "PackagePath": "staticwebassets\\img\\facebook (1).png"
+    },
+    {
       "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\home_blog.jpg",
       "PackagePath": "staticwebassets\\img\\home_blog.jpg"
     },
@@ -43,6 +71,54 @@
     {
       "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\home_servicios.png",
       "PackagePath": "staticwebassets\\img\\home_servicios.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\innovacion.png",
+      "PackagePath": "staticwebassets\\img\\innovacion.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\instagram.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\integridad.png",
+      "PackagePath": "staticwebassets\\img\\integridad.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\pasion.png",
+      "PackagePath": "staticwebassets\\img\\pasion.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\sostenibilidad.png",
+      "PackagePath": "staticwebassets\\img\\sostenibilidad.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\tik-tok.png",
+      "PackagePath": "staticwebassets\\img\\tik-tok.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\usario1.png",
+      "PackagePath": "staticwebassets\\img\\usario1.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\usuario1.png",
+      "PackagePath": "staticwebassets\\img\\usuario1.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\img\\whatsapp.png",
+      "PackagePath": "staticwebassets\\img\\whatsapp.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
       "Id": "D:\\Proyectos\\Artifice_web\\wwwroot\\js\\site.js",

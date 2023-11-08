@@ -1,0 +1,89 @@
+﻿/*----------------------
+    ESTILOS DE DISEÑO
+----------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size:13px;
+}
+body{
+    /*color:white;*/
+}
+body, html{
+    height: 100%;
+    margin: 0;
+    font-family: Cincel;
+}
+
+nav {
+    background: linear-gradient(269deg, #D6C6B4 0.73%, rgba(210, 193, 173, 0.63) 47.99%, rgba(229, 219, 208, 0.00) 63.84%);
+    background-color: white;
+}
+
+
+#menu-principal .itemMenu {
+    color: #846851;   
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#menu-principal .itemMenu:hover {
+    color: white;   
+    border-left: solid white;
+    border-right: solid white;
+
+}
+
+.navbar-toggler {
+    border: 2px solid #736357;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(115,99,87, 0.5)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.imglogo:hover {
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -o-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    transform: scale(0.8)
+}
+
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+}
+
+.footer, .push {
+    height: 20em;
+}
+
+.pie-de-pagina {
+    background-color: #C7B299;
+}
+
+.textoFooter {
+    color: #846851;
+    font-size: 15px;
+}
+
+.iconosFooter {
+    width: 45px;
+    margin-top: 6px;
+}
+
+.iconosFooter:hover {
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -o-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    transform: scale(0.8)
+}
