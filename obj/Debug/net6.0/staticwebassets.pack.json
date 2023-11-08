@@ -37,6 +37,18 @@
       "PackagePath": "staticwebassets\\img\\LogoEmpresa1.png"
     },
     {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\calidad.png",
+      "PackagePath": "staticwebassets\\img\\calidad.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\compromiso.png",
+      "PackagePath": "staticwebassets\\img\\compromiso.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\creatividad.png",
+      "PackagePath": "staticwebassets\\img\\creatividad.png"
+    },
+    {
       "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\facebook (1).png",
       "PackagePath": "staticwebassets\\img\\facebook (1).png"
     },
@@ -67,6 +79,14 @@
     {
       "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\tik-tok.png",
       "PackagePath": "staticwebassets\\img\\tik-tok.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\usario1.png",
+      "PackagePath": "staticwebassets\\img\\usario1.png"
+    },
+    {
+      "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\usuario1.png",
+      "PackagePath": "staticwebassets\\img\\usuario1.png"
     },
     {
       "Id": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\wwwroot\\img\\whatsapp.png",
