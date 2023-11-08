@@ -65,6 +65,22 @@
       "PackagePath": "staticwebassets\\img\\instagram.png"
     },
     {
+      "Id": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\wwwroot\\img\\servicio1.png",
+      "PackagePath": "staticwebassets\\img\\servicio1.png"
+    },
+    {
+      "Id": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\wwwroot\\img\\servicio2.png",
+      "PackagePath": "staticwebassets\\img\\servicio2.png"
+    },
+    {
+      "Id": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\wwwroot\\img\\servicio3.png",
+      "PackagePath": "staticwebassets\\img\\servicio3.png"
+    },
+    {
+      "Id": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\wwwroot\\img\\servicio4.png",
+      "PackagePath": "staticwebassets\\img\\servicio4.png"
+    },
+    {
       "Id": "C:\\Users\\estiv\\OneDrive\\Documentos\\GitHub\\Artifice_web\\wwwroot\\img\\tik-tok.png",
       "PackagePath": "staticwebassets\\img\\tik-tok.png"
     },

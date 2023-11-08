@@ -112,11 +112,11 @@ nav {
 
 @media screen and (min-width: 980px){
     .articulo1{
-        margin-right: 250px;
+        margin-right: 225px;
     }
 
     .articulo2{
-        margin-right: 250px;
+        margin-right: 225px;
     }
 }
 
@@ -124,8 +124,14 @@ nav {
     font-weight: bold;
     color: #846851;
     font-size: 18px;
+    position: relative;
+    top: 12px;
 }
 
 .parrafoCards{
     font-size: 15px;
+}
+
+.card {
+    box-shadow: -2px 6px 31px 0px rgba(0, 0, 0, 0.50);
 }
