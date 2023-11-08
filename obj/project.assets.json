@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\Artifice_web.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Artifice_web\\Artifice_web.csproj",
       "projectName": "Artifice_web",
-      "projectPath": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\Artifice_web.csproj",
+      "projectPath": "D:\\Proyectos\\Artifice_web\\Artifice_web.csproj",
       "packagesPath": "C:\\Users\\g14_0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\g14_0\\OneDrive\\Documentos\\Visual Studio 2022\\repos\\Artifice_web\\obj\\",
+      "outputPath": "D:\\Proyectos\\Artifice_web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\g14_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
