@@ -91,8 +91,11 @@ nav {
 
 /*ESTILOS PARA LA VISTA SERVICIOS*/
 
-.card {
-    
+
+
+
+.tituloServicosCards {
+    color: #846851;
 }
 
 .form-check-input {
@@ -106,10 +109,23 @@ nav {
     justify-content:center;
 }
 
-.articulo1{
-    margin-right: 250px;
+
+@media screen and (min-width: 980px){
+    .articulo1{
+        margin-right: 250px;
+    }
+
+    .articulo2{
+        margin-right: 250px;
+    }
 }
 
-.articulo2{
-    margin-right: 250px;
+.card-title {
+    font-weight: bold;
+    color: #846851;
+    font-size: 18px;
+}
+
+.parrafoCards{
+    font-size: 15px;
 }
